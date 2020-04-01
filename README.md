@@ -24,4 +24,4 @@ The values of nodes are hardcoded for now will update soon.
   traverse() is wrapper method in tree.py for visit() which is present in node.py responsible to visit each and every node of the tree or sort it in ascending order
 
 [1]:https://en.wikipedia.org/wiki/Binary_tree
-[2];https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search
+[2]:https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search
