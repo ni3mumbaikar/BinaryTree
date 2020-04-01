@@ -17,4 +17,11 @@ The only file you need to execute as the logic is hidden in other files :)
   This is a function inside tree.py responsible for adding values inside the tree based on binary tree standards.
 The values of nodes are hardcoded for now will update soon.
 
+## search()
+  Search values inside tree with just node reference using binary search algo. To know more on how binary search works check [2]:this link.
+
+## traverse() or visit()
+  traverse() is wrapper method in tree.py for visit() which is present in node.py responsible to visit each and every node of the tree or sort it in ascending order
+
 [1]:https://en.wikipedia.org/wiki/Binary_tree
+[2];https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search
