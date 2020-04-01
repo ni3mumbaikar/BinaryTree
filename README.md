@@ -18,7 +18,7 @@ The only file you need to execute as the logic is hidden in other files :)
 The values of nodes are hardcoded for now will update soon.
 
 ## search()
-  Search values inside tree with just node reference using binary search algo. To know more on how binary search works check [2]:this link.
+  Search values inside tree with just node reference using binary search algo. To know more on how binary search works check [this][2] link.
 
 ## traverse() or visit()
   traverse() is wrapper method in tree.py for visit() which is present in node.py responsible to visit each and every node of the tree or sort it in ascending order
